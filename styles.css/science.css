@@ -1,0 +1,61 @@
+body {
+  background-color: #F9F9F9
+}
+
+h2 {
+  padding-top: 1.5rem;
+  text-align: center;
+  line-height: 1.5rem;
+}
+
+.container img {
+  height: 15rem;
+  width: 23rem;
+  position: relative;
+  top: 9rem;
+  left: 50%;
+  padding-bottom: 25px;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.science-p1 {
+  font-size: 1.15rem;
+  text-align: center;
+}
+
+.science-p2 {
+  font-size: 1.15rem;
+  text-align: left;
+}
+
+h3 {
+  text-align: center;
+}
+
+.navbar-brand {
+  text-align: center;
+}
+
+.group {
+  text-align: center;
+}
+
+p {
+  font-size: 1.15rem;
+}
+
+.main {
+  color: blue;
+}
+
+.main1 {
+  color: blue;
+}
+
+.topic {
+  text-align: center;
+}
+
+.careers {
+  text-align: center;
+}

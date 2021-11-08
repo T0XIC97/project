@@ -1,0 +1,28 @@
+body {
+  background-color: #F9F9F9
+}
+.container img {
+  height: 15rem;
+  width: 23rem;
+  position: relative;
+  top: 9rem;
+  left: 50%;
+  padding-bottom: 25px;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+h2 {
+  padding-top: 1.5rem;
+  text-align: center;
+  line-height: 1.5rem;
+}
+p {
+  font-size: 1.15rem;
+  text-align: center;
+}
+.What{
+  text-align: center;
+}
+.careers {
+  text-align: center;
+}
